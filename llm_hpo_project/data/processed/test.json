@@ -1,0 +1,734 @@
+[
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"alcanzaba los 500 000 hab.3 La ciudad llegar\u00eda, en su m\u00e1ximo desarrollo demogr\u00e1fico, en plena \u00e9poca imperial (siglo II d...\"?",
+        "answer": "alcanzaba los 500 000 hab.3 La ciudad llegar\u00eda, en su m\u00e1ximo desarrollo demogr\u00e1fico, en plena \u00e9poca imperial (siglo II d.",
+        "context": "alcanzaba los 500 000 hab.3 La ciudad llegar\u00eda, en su m\u00e1ximo desarrollo demogr\u00e1fico, en plena \u00e9poca imperial (siglo II d."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"La evoluci\u00f3n de la Monarqu\u00eda imperial en Roma tuvo dos etapas: a) El Principado (siglos I y II d.\"?",
+        "answer": "La evoluci\u00f3n de la Monarqu\u00eda imperial en Roma tuvo dos etapas: a) El Principado (siglos I y II d.",
+        "context": "La evoluci\u00f3n de la Monarqu\u00eda imperial en Roma tuvo dos etapas: a) El Principado (siglos I y II d."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Fue la cabeza de un gran Estado imperial y sede de una naci\u00f3n establecida en tres continentes.\"?",
+        "answer": "Fue la cabeza de un gran Estado imperial y sede de una naci\u00f3n establecida en tres continentes.",
+        "context": "Fue la cabeza de un gran Estado imperial y sede de una naci\u00f3n establecida en tres continentes."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"El Senado era una asamblea formada por los patricios m\u00e1s importantes de Roma y era la instituci\u00f3n que verdaderamente gob...\"?",
+        "answer": "El Senado era una asamblea formada por los patricios m\u00e1s importantes de Roma y era la instituci\u00f3n que verdaderamente gobernaba la ciudad, sobre todo en materia de pol\u00edtica exterior.",
+        "context": "El Senado era una asamblea formada por los patricios m\u00e1s importantes de Roma y era la instituci\u00f3n que verdaderamente gobernaba la ciudad, sobre todo en materia de pol\u00edtica exterior."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Constantino y sus sucesores comprendieron la importancia pol\u00edtica del cristianismo y trataron de comunicar nuevas fuerza...\"?",
+        "answer": "Constantino y sus sucesores comprendieron la importancia pol\u00edtica del cristianismo y trataron de comunicar nuevas fuerzas al Estado apoy\u00e1ndose en \u00e9l.",
+        "context": "Constantino y sus sucesores comprendieron la importancia pol\u00edtica del cristianismo y trataron de comunicar nuevas fuerzas al Estado apoy\u00e1ndose en \u00e9l."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Durante la Rep\u00fablica se dio el fen\u00f3meno de la helenizaci\u00f3n de la primitiva cultura romano-latina.\"?",
+        "answer": "Durante la Rep\u00fablica se dio el fen\u00f3meno de la helenizaci\u00f3n de la primitiva cultura romano-latina.",
+        "context": "Durante la Rep\u00fablica se dio el fen\u00f3meno de la helenizaci\u00f3n de la primitiva cultura romano-latina."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"No tardar\u00eda en estallar una \u00faltima guerra civil en la cual venci\u00f3 el general Octavio sobre su rival Antonio en la decisi...\"?",
+        "answer": "No tardar\u00eda en estallar una \u00faltima guerra civil en la cual venci\u00f3 el general Octavio sobre su rival Antonio en la decisiva batalla de Accio (31 a.",
+        "context": "No tardar\u00eda en estallar una \u00faltima guerra civil en la cual venci\u00f3 el general Octavio sobre su rival Antonio en la decisiva batalla de Accio (31 a."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Pronto desaparecieron ambos actores-Gregorio muri\u00f3 execrado por el pueblo romano que lo acus\u00f3 de permitir el saqueo, y E...\"?",
+        "answer": "Pronto desaparecieron ambos actores-Gregorio muri\u00f3 execrado por el pueblo romano que lo acus\u00f3 de permitir el saqueo, y Enrique fracasado y en la miseria.",
+        "context": "Pronto desaparecieron ambos actores-Gregorio muri\u00f3 execrado por el pueblo romano que lo acus\u00f3 de permitir el saqueo, y Enrique fracasado y en la miseria."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"No volvi\u00f3 a plantearse m\u00e1s la cuesti\u00f3n de la supremac\u00eda entre ambas potestades.\"?",
+        "answer": "No volvi\u00f3 a plantearse m\u00e1s la cuesti\u00f3n de la supremac\u00eda entre ambas potestades.",
+        "context": "No volvi\u00f3 a plantearse m\u00e1s la cuesti\u00f3n de la supremac\u00eda entre ambas potestades."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"La Rep\u00fablica romana La Rep\u00fablica (509 a.\"?",
+        "answer": "La Rep\u00fablica romana La Rep\u00fablica (509 a.",
+        "context": "La Rep\u00fablica romana La Rep\u00fablica (509 a."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"A pesar de que Roma era tolerante con las religiones extranjeras, la actitud de los cristianos ser\u00eda considerada disolve...\"?",
+        "answer": "A pesar de que Roma era tolerante con las religiones extranjeras, la actitud de los cristianos ser\u00eda considerada disolvente para el Estado; en breve, el cristianismo se atraer\u00eda la hostilidad de las autoridades imperiales.",
+        "context": "A pesar de que Roma era tolerante con las religiones extranjeras, la actitud de los cristianos ser\u00eda considerada disolvente para el Estado; en breve, el cristianismo se atraer\u00eda la hostilidad de las autoridades imperiales."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"El rey lombardo Liutprando restituy\u00f3 al Papado, mediante una donaci\u00f3n, una serie de territorios que ser\u00edan la base jur\u00edd...\"?",
+        "answer": "El rey lombardo Liutprando restituy\u00f3 al Papado, mediante una donaci\u00f3n, una serie de territorios que ser\u00edan la base jur\u00eddica de los Estados Pontificios, lo que se formaliz\u00f3 con las donaciones territoriales (Exarcado de R\u00e1vena, la Pent\u00e1polis, etc.) del rey franco Pipino el Breve (754); esto asegur\u00f3 al Papado su independencia pol\u00edtica frente a los lombardos y los bizantinos.",
+        "context": "El rey lombardo Liutprando restituy\u00f3 al Papado, mediante una donaci\u00f3n, una serie de territorios que ser\u00edan la base jur\u00eddica de los Estados Pontificios, lo que se formaliz\u00f3 con las donaciones territoriales (Exarcado de R\u00e1vena, la Pent\u00e1polis, etc.) del rey franco Pipino el Breve (754); esto asegur\u00f3 al Papado su independencia pol\u00edtica frente a los lombardos y los bizantinos."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Su territorio limitaba con el de varios otros grupos de poblaciones it\u00e1licas y, en el norte, con el importante pueblo pr...\"?",
+        "answer": "Su territorio limitaba con el de varios otros grupos de poblaciones it\u00e1licas y, en el norte, con el importante pueblo preindoeuropeo de los etruscos.",
+        "context": "Su territorio limitaba con el de varios otros grupos de poblaciones it\u00e1licas y, en el norte, con el importante pueblo preindoeuropeo de los etruscos."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Aunque la ciudad volvi\u00f3 a depender pol\u00edticamente de los papas, el pueblo romano logr\u00f3 ganarse cierta autonom\u00eda civil a d...\"?",
+        "answer": "Aunque la ciudad volvi\u00f3 a depender pol\u00edticamente de los papas, el pueblo romano logr\u00f3 ganarse cierta autonom\u00eda civil a despecho de los nobles y de los pont\u00edfices.",
+        "context": "Aunque la ciudad volvi\u00f3 a depender pol\u00edticamente de los papas, el pueblo romano logr\u00f3 ganarse cierta autonom\u00eda civil a despecho de los nobles y de los pont\u00edfices."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"A pesar de este fracaso, a fines del siglo XII el Papado reconoce al movimiento comunal y se crea el cargo de senador \u00fan...\"?",
+        "answer": "A pesar de este fracaso, a fines del siglo XII el Papado reconoce al movimiento comunal y se crea el cargo de senador \u00fanico.",
+        "context": "A pesar de este fracaso, a fines del siglo XII el Papado reconoce al movimiento comunal y se crea el cargo de senador \u00fanico."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"La persistencia de esta ciudad y de su poblaci\u00f3n, en medio de tantos avatares hist\u00f3ricos, efectivamente constituye el he...\"?",
+        "answer": "La persistencia de esta ciudad y de su poblaci\u00f3n, en medio de tantos avatares hist\u00f3ricos, efectivamente constituye el hecho destacado.",
+        "context": "La persistencia de esta ciudad y de su poblaci\u00f3n, en medio de tantos avatares hist\u00f3ricos, efectivamente constituye el hecho destacado."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"El poder militar romano y la formaci\u00f3n del imperio La Roma republicana fue un estado guerrero.\"?",
+        "answer": "El poder militar romano y la formaci\u00f3n del imperio La Roma republicana fue un estado guerrero.",
+        "context": "El poder militar romano y la formaci\u00f3n del imperio La Roma republicana fue un estado guerrero."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Nac\u00eda de esta forma el Sacro Imperio Romano Germ\u00e1nico, el cual durar\u00eda en teor\u00eda hasta 1806, en que se disolvi\u00f3 debido a...\"?",
+        "answer": "Nac\u00eda de esta forma el Sacro Imperio Romano Germ\u00e1nico, el cual durar\u00eda en teor\u00eda hasta 1806, en que se disolvi\u00f3 debido a la acci\u00f3n de Napole\u00f3n.",
+        "context": "Nac\u00eda de esta forma el Sacro Imperio Romano Germ\u00e1nico, el cual durar\u00eda en teor\u00eda hasta 1806, en que se disolvi\u00f3 debido a la acci\u00f3n de Napole\u00f3n."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Teodosio tambi\u00e9n es importante por haber declarado al cristianismo como la religi\u00f3n oficial del Imperio.\"?",
+        "answer": "Teodosio tambi\u00e9n es importante por haber declarado al cristianismo como la religi\u00f3n oficial del Imperio.",
+        "context": "Teodosio tambi\u00e9n es importante por haber declarado al cristianismo como la religi\u00f3n oficial del Imperio."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"\u00abDos episodios de la Roma bizantina: Las consagraciones de las bas\u00edlicas de Santa Mar\u00eda ad Martyres y San Adriano.\u00bb (htt...\"?",
+        "answer": "\u00abDos episodios de la Roma bizantina: Las consagraciones de las bas\u00edlicas de Santa Mar\u00eda ad Martyres y San Adriano.\u00bb (http://www.arbil.org/113gon z.htm).",
+        "context": "\u00abDos episodios de la Roma bizantina: Las consagraciones de las bas\u00edlicas de Santa Mar\u00eda ad Martyres y San Adriano.\u00bb (http://www.arbil.org/113gon z.htm)."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"En lo estrictamente local la ciudad ha sido gobernada, desde el fin de la guerra, y como nunca en su historia, mediante ...\"?",
+        "answer": "En lo estrictamente local la ciudad ha sido gobernada, desde el fin de la guerra, y como nunca en su historia, mediante f\u00f3rmulas genuinamente democr\u00e1ticas y republicanas.",
+        "context": "En lo estrictamente local la ciudad ha sido gobernada, desde el fin de la guerra, y como nunca en su historia, mediante f\u00f3rmulas genuinamente democr\u00e1ticas y republicanas."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Notables expresiones escult\u00f3ricas de Miguel \u00c1ngel fueron su David y el Mois\u00e9s; en la pintura destac\u00f3 su grandiosa colecc...\"?",
+        "answer": "Notables expresiones escult\u00f3ricas de Miguel \u00c1ngel fueron su David y el Mois\u00e9s; en la pintura destac\u00f3 su grandiosa colecci\u00f3n de frescos de la Capilla Sixtina.",
+        "context": "Notables expresiones escult\u00f3ricas de Miguel \u00c1ngel fueron su David y el Mois\u00e9s; en la pintura destac\u00f3 su grandiosa colecci\u00f3n de frescos de la Capilla Sixtina."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Augusto gobern\u00f3 directamente las provincias \"imperiales\" (aquellas fronterizas y con presencia militar) mediante sus leg...\"?",
+        "answer": "Augusto gobern\u00f3 directamente las provincias \"imperiales\" (aquellas fronterizas y con presencia militar) mediante sus legados, y en forma indirecta las \"senatoriales\" (las m\u00e1s interiores y pacificadas) a trav\u00e9s de la gesti\u00f3n del Senado.",
+        "context": "Augusto gobern\u00f3 directamente las provincias \"imperiales\" (aquellas fronterizas y con presencia militar) mediante sus legados, y en forma indirecta las \"senatoriales\" (las m\u00e1s interiores y pacificadas) a trav\u00e9s de la gesti\u00f3n del Senado."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Pero pronto los ej\u00e9rcitos franceses invadieron los Estados Pontificios y ocuparon Roma.\"?",
+        "answer": "Pero pronto los ej\u00e9rcitos franceses invadieron los Estados Pontificios y ocuparon Roma.",
+        "context": "Pero pronto los ej\u00e9rcitos franceses invadieron los Estados Pontificios y ocuparon Roma."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"La recuperaci\u00f3n de su independencia ha impulsado al Papado a realizar una intensa actividad misionera, con grandes reper...\"?",
+        "answer": "La recuperaci\u00f3n de su independencia ha impulsado al Papado a realizar una intensa actividad misionera, con grandes repercusiones fuera de las fronteras de Italia.",
+        "context": "La recuperaci\u00f3n de su independencia ha impulsado al Papado a realizar una intensa actividad misionera, con grandes repercusiones fuera de las fronteras de Italia."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"A principio del siglo V, las tribus germ\u00e1nicas, empujadas hacia el Oeste por la presi\u00f3n de los hunos, penetraron en el I...\"?",
+        "answer": "A principio del siglo V, las tribus germ\u00e1nicas, empujadas hacia el Oeste por la presi\u00f3n de los hunos, penetraron en el Imperio Romano de Occidente.",
+        "context": "A principio del siglo V, las tribus germ\u00e1nicas, empujadas hacia el Oeste por la presi\u00f3n de los hunos, penetraron en el Imperio Romano de Occidente."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Las veces en que el poder popular intent\u00f3, acaudillado por alg\u00fan l\u00edder carism\u00e1tico (salido siempre de la aristocracia) c...\"?",
+        "answer": "Las veces en que el poder popular intent\u00f3, acaudillado por alg\u00fan l\u00edder carism\u00e1tico (salido siempre de la aristocracia) competir de veras con la nobleza, fue derrotado en toda la l\u00ednea (como fue la tentativa de los hermanos Graco, a finales del siglo II a.",
+        "context": "Las veces en que el poder popular intent\u00f3, acaudillado por alg\u00fan l\u00edder carism\u00e1tico (salido siempre de la aristocracia) competir de veras con la nobleza, fue derrotado en toda la l\u00ednea (como fue la tentativa de los hermanos Graco, a finales del siglo II a."
+    },
+    {
+        "type": "closed",
+        "question": "\u00bfCu\u00e1l es la componentes de la siguiente afirmaci\u00f3n? \"Tras intensas negociaciones, en que particip\u00f3 la Santa Sede, Roma fue declarada \u201cCiudad abierta\u201d (agosto de 19...\"?",
+        "answer": "Tras intensas negociaciones, en que particip\u00f3 la Santa Sede, Roma fue declarada \u201cCiudad abierta\u201d (agosto de 1943) por las autoridades nazis, retir\u00e1ndose, posteriormente, los alemanes m\u00e1s al norte.",
+        "context": "Tras intensas negociaciones, en que particip\u00f3 la Santa Sede, Roma fue declarada \u201cCiudad abierta\u201d (agosto de 1943) por las autoridades nazis, retir\u00e1ndose, posteriormente, los alemanes m\u00e1s al norte."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"La reforma eclesi\u00e1stica de Gregorio consisti\u00f3 en reforzar el poder pontificio mediante legados que enviaba a todos los p...\"?",
+        "answer": "La reforma eclesi\u00e1stica de Gregorio consisti\u00f3 en reforzar el poder pontificio mediante legados que enviaba a todos los pa\u00edses con objeto de someter a obediencia a las iglesias locales; luego, sustrajo al poder imperial la atribuci\u00f3n de investir a los obispos y abades en sus territorios.",
+        "context": "La reforma eclesi\u00e1stica de Gregorio consisti\u00f3 en reforzar el poder pontificio mediante legados que enviaba a todos los pa\u00edses con objeto de someter a obediencia a las iglesias locales; luego, sustrajo al poder imperial la atribuci\u00f3n de investir a los obispos y abades en sus territorios."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Aquellas y esta debieron pagar a Francia pesados tributos.\"?",
+        "answer": "Aquellas y esta debieron pagar a Francia pesados tributos.",
+        "context": "Aquellas y esta debieron pagar a Francia pesados tributos."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"C.) conquist\u00f3 Dacia (actual Rumania) y Mesopotamia.\"?",
+        "answer": "C.) conquist\u00f3 Dacia (actual Rumania) y Mesopotamia.",
+        "context": "C.) conquist\u00f3 Dacia (actual Rumania) y Mesopotamia."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Los libros, las bibliotecas, y el p\u00fablico lector fueron en aumento a consecuencia de la expansi\u00f3n de la educaci\u00f3n elemen...\"?",
+        "answer": "Los libros, las bibliotecas, y el p\u00fablico lector fueron en aumento a consecuencia de la expansi\u00f3n de la educaci\u00f3n elemental.",
+        "context": "Los libros, las bibliotecas, y el p\u00fablico lector fueron en aumento a consecuencia de la expansi\u00f3n de la educaci\u00f3n elemental."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"se fund\u00f3 el templo de J\u00fapiter Capitolino, y de la misma \u00e9poca son los templos de Saturno (498 a.\"?",
+        "answer": "se fund\u00f3 el templo de J\u00fapiter Capitolino, y de la misma \u00e9poca son los templos de Saturno (498 a.",
+        "context": "se fund\u00f3 el templo de J\u00fapiter Capitolino, y de la misma \u00e9poca son los templos de Saturno (498 a."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Tales construcciones han sido ampliamente imitadas en los siglos posteriores y especialmente durante el Renacimiento y e...\"?",
+        "answer": "Tales construcciones han sido ampliamente imitadas en los siglos posteriores y especialmente durante el Renacimiento y en la \u00e9poca Neocl\u00e1sica.",
+        "context": "Tales construcciones han sido ampliamente imitadas en los siglos posteriores y especialmente durante el Renacimiento y en la \u00e9poca Neocl\u00e1sica."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Alta Edad Media Roma se sumerge en la Alta Edad Media desligada definitivamente del Imperio Bizantino (el ducado se supr...\"?",
+        "answer": "Alta Edad Media Roma se sumerge en la Alta Edad Media desligada definitivamente del Imperio Bizantino (el ducado se suprimi\u00f3 en 727) y bajo un control relativo de los papas en los aspectos pol\u00edticos, civiles, administrativos y econ\u00f3micos (la ciudad estaba bajo la presi\u00f3n constante de los lombardos, los cuales nunca renunciaron a conquistarla).",
+        "context": "Alta Edad Media Roma se sumerge en la Alta Edad Media desligada definitivamente del Imperio Bizantino (el ducado se suprimi\u00f3 en 727) y bajo un control relativo de los papas en los aspectos pol\u00edticos, civiles, administrativos y econ\u00f3micos (la ciudad estaba bajo la presi\u00f3n constante de los lombardos, los cuales nunca renunciaron a conquistarla)."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"En la segunda guerra (empezada hacia el 220 a.\"?",
+        "answer": "En la segunda guerra (empezada hacia el 220 a.",
+        "context": "En la segunda guerra (empezada hacia el 220 a."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Inocencio ejerci\u00f3 en plenitud el poder espiritual y el temporal.\"?",
+        "answer": "Inocencio ejerci\u00f3 en plenitud el poder espiritual y el temporal.",
+        "context": "Inocencio ejerci\u00f3 en plenitud el poder espiritual y el temporal."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"La crisis del siglo III Durante el siglo III Roma sufri\u00f3 una larga crisis.\"?",
+        "answer": "La crisis del siglo III Durante el siglo III Roma sufri\u00f3 una larga crisis.",
+        "context": "La crisis del siglo III Durante el siglo III Roma sufri\u00f3 una larga crisis."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Maquiavelo identific\u00f3 a C\u00e9sar como el pr\u00edncipe llamado a hacer la unidad de Italia en contra de los \u201cb\u00e1rbaros\u201d que domin...\"?",
+        "answer": "Maquiavelo identific\u00f3 a C\u00e9sar como el pr\u00edncipe llamado a hacer la unidad de Italia en contra de los \u201cb\u00e1rbaros\u201d que dominaban la pen\u00ednsula-vale decir, franceses y espa\u00f1oles.",
+        "context": "Maquiavelo identific\u00f3 a C\u00e9sar como el pr\u00edncipe llamado a hacer la unidad de Italia en contra de los \u201cb\u00e1rbaros\u201d que dominaban la pen\u00ednsula-vale decir, franceses y espa\u00f1oles."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"A partir de su asesinato (235), la Monarqu\u00eda cae en manos de los generales y Roma se precipita en un confuso per\u00edodo que...\"?",
+        "answer": "A partir de su asesinato (235), la Monarqu\u00eda cae en manos de los generales y Roma se precipita en un confuso per\u00edodo que dur\u00f3 unos sesenta a\u00f1os y que ha sido denominado la \"Crisis del siglo III\".",
+        "context": "A partir de su asesinato (235), la Monarqu\u00eda cae en manos de los generales y Roma se precipita en un confuso per\u00edodo que dur\u00f3 unos sesenta a\u00f1os y que ha sido denominado la \"Crisis del siglo III\"."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Sigui\u00f3 un per\u00edodo de gran actividad constructiva: templos, bas\u00edlicas, acueductos y caminos consulares (V\u00eda Apia, V\u00eda Lat...\"?",
+        "answer": "Sigui\u00f3 un per\u00edodo de gran actividad constructiva: templos, bas\u00edlicas, acueductos y caminos consulares (V\u00eda Apia, V\u00eda Latina, V\u00eda Flaminia, etc).",
+        "context": "Sigui\u00f3 un per\u00edodo de gran actividad constructiva: templos, bas\u00edlicas, acueductos y caminos consulares (V\u00eda Apia, V\u00eda Latina, V\u00eda Flaminia, etc)."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Roma perdi\u00f3 su rango de gran ciudad mediterr\u00e1nea occidental, iniciando su vida medieval a expensas del Imperio Bizantino...\"?",
+        "answer": "Roma perdi\u00f3 su rango de gran ciudad mediterr\u00e1nea occidental, iniciando su vida medieval a expensas del Imperio Bizantino, primero, y del poder pontificio y de la Iglesia despu\u00e9s.",
+        "context": "Roma perdi\u00f3 su rango de gran ciudad mediterr\u00e1nea occidental, iniciando su vida medieval a expensas del Imperio Bizantino, primero, y del poder pontificio y de la Iglesia despu\u00e9s."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"En 1807 Napole\u00f3n dio el paso definitivo y procedi\u00f3 a clausurar su independencia pol\u00edtica: traspas\u00f3 una serie de territor...\"?",
+        "answer": "En 1807 Napole\u00f3n dio el paso definitivo y procedi\u00f3 a clausurar su independencia pol\u00edtica: traspas\u00f3 una serie de territorios pontificios -Ancona, Urbino y otros- al reci\u00e9n creado Reino de Italia (bajo soberan\u00eda francesa) e incorpor\u00f3 en forma definitiva Roma y los restos del territorio papal al Imperio Franc\u00e9s.",
+        "context": "En 1807 Napole\u00f3n dio el paso definitivo y procedi\u00f3 a clausurar su independencia pol\u00edtica: traspas\u00f3 una serie de territorios pontificios -Ancona, Urbino y otros- al reci\u00e9n creado Reino de Italia (bajo soberan\u00eda francesa) e incorpor\u00f3 en forma definitiva Roma y los restos del territorio papal al Imperio Franc\u00e9s."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Las leyes deben ser p\u00fablicas y escritas.\"?",
+        "answer": "Las leyes deben ser p\u00fablicas y escritas.",
+        "context": "Las leyes deben ser p\u00fablicas y escritas."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"La renovaci\u00f3n de Roma no fue detenida ni siquiera por su famoso \u201cSaco\u201d de 1527 que signific\u00f3 la expoliaci\u00f3n de parte de ...\"?",
+        "answer": "La renovaci\u00f3n de Roma no fue detenida ni siquiera por su famoso \u201cSaco\u201d de 1527 que signific\u00f3 la expoliaci\u00f3n de parte de sus obras de arte.",
+        "context": "La renovaci\u00f3n de Roma no fue detenida ni siquiera por su famoso \u201cSaco\u201d de 1527 que signific\u00f3 la expoliaci\u00f3n de parte de sus obras de arte."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Los etruscos legaron a los romanos sus conocimientos de ingenier\u00eda, su arte y el uso del alfabeto (que a su vez hab\u00edan a...\"?",
+        "answer": "Los etruscos legaron a los romanos sus conocimientos de ingenier\u00eda, su arte y el uso del alfabeto (que a su vez hab\u00edan adaptado de los griegos).",
+        "context": "Los etruscos legaron a los romanos sus conocimientos de ingenier\u00eda, su arte y el uso del alfabeto (que a su vez hab\u00edan adaptado de los griegos)."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"De esta forma fueron obteniendo la igualdad pol\u00edtica.\"?",
+        "answer": "De esta forma fueron obteniendo la igualdad pol\u00edtica.",
+        "context": "De esta forma fueron obteniendo la igualdad pol\u00edtica."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"En esta etapa el gobierno de la ciudad estuvo en manos de las clases m\u00e1s ricas y nobles.\"?",
+        "answer": "En esta etapa el gobierno de la ciudad estuvo en manos de las clases m\u00e1s ricas y nobles.",
+        "context": "En esta etapa el gobierno de la ciudad estuvo en manos de las clases m\u00e1s ricas y nobles."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"C\u00e9sar pas\u00f3 a la historia como el ep\u00edtome del pr\u00edncipe violento y sin escr\u00fapulos.\"?",
+        "answer": "C\u00e9sar pas\u00f3 a la historia como el ep\u00edtome del pr\u00edncipe violento y sin escr\u00fapulos.",
+        "context": "C\u00e9sar pas\u00f3 a la historia como el ep\u00edtome del pr\u00edncipe violento y sin escr\u00fapulos."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Por m\u00e1s de 200 a\u00f1os los europeos se batir\u00e1n con los reinos isl\u00e1micos del Medio Oriente gracias al influjo del Papado y l...\"?",
+        "answer": "Por m\u00e1s de 200 a\u00f1os los europeos se batir\u00e1n con los reinos isl\u00e1micos del Medio Oriente gracias al influjo del Papado y la Iglesia.",
+        "context": "Por m\u00e1s de 200 a\u00f1os los europeos se batir\u00e1n con los reinos isl\u00e1micos del Medio Oriente gracias al influjo del Papado y la Iglesia."
+    },
+    {
+        "type": "closed",
+        "question": "\u00bfCu\u00e1l es la requisitos de la siguiente afirmaci\u00f3n? \"\u00abVinculaci\u00f3n ideol\u00f3gica de la Roma medieval con los monumentos cl\u00e1sicos\u00bb (https://revistas.uam.es/historiaauto...\"?",
+        "answer": "\u00abVinculaci\u00f3n ideol\u00f3gica de la Roma medieval con los monumentos cl\u00e1sicos\u00bb (https://revistas.uam.es/historiaautonoma/article/view/434).",
+        "context": "\u00abVinculaci\u00f3n ideol\u00f3gica de la Roma medieval con los monumentos cl\u00e1sicos\u00bb (https://revistas.uam.es/historiaautonoma/article/view/434)."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Estas nuevas \u00f3rdenes hicieron una activa reevangelizaci\u00f3n en Italia y Europa, y fuera del continente, en Asia y Am\u00e9rica.\"?",
+        "answer": "Estas nuevas \u00f3rdenes hicieron una activa reevangelizaci\u00f3n en Italia y Europa, y fuera del continente, en Asia y Am\u00e9rica.",
+        "context": "Estas nuevas \u00f3rdenes hicieron una activa reevangelizaci\u00f3n en Italia y Europa, y fuera del continente, en Asia y Am\u00e9rica."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"El Barroco, con su gusto por las figuras curvas y recargadas, embelleci\u00f3 Roma, dejando muy atr\u00e1s la pobreza arquitect\u00f3ni...\"?",
+        "answer": "El Barroco, con su gusto por las figuras curvas y recargadas, embelleci\u00f3 Roma, dejando muy atr\u00e1s la pobreza arquitect\u00f3nica del Medioevo.",
+        "context": "El Barroco, con su gusto por las figuras curvas y recargadas, embelleci\u00f3 Roma, dejando muy atr\u00e1s la pobreza arquitect\u00f3nica del Medioevo."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"La necesidades defensivas de Roma obligaron a los patricios a admitir en el ej\u00e9rcito a los plebeyos, y luego a otorgarle...\"?",
+        "answer": "La necesidades defensivas de Roma obligaron a los patricios a admitir en el ej\u00e9rcito a los plebeyos, y luego a otorgarles derechos c\u00edvicos.",
+        "context": "La necesidades defensivas de Roma obligaron a los patricios a admitir en el ej\u00e9rcito a los plebeyos, y luego a otorgarles derechos c\u00edvicos."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Roma y el Papado se zafaron de la presi\u00f3n lombarda, pero cayeron en la \u00f3rbita franca.\"?",
+        "answer": "Roma y el Papado se zafaron de la presi\u00f3n lombarda, pero cayeron en la \u00f3rbita franca.",
+        "context": "Roma y el Papado se zafaron de la presi\u00f3n lombarda, pero cayeron en la \u00f3rbita franca."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Donato Bramante se inspir\u00f3 en los modelos cl\u00e1sicos y dise\u00f1\u00f3 famosas obras como el templete de San Pietro in Montorio (ba...\"?",
+        "answer": "Donato Bramante se inspir\u00f3 en los modelos cl\u00e1sicos y dise\u00f1\u00f3 famosas obras como el templete de San Pietro in Montorio (basados en los antiguos templos de Vesta) y la nueva Bas\u00edlica de San Pedro.",
+        "context": "Donato Bramante se inspir\u00f3 en los modelos cl\u00e1sicos y dise\u00f1\u00f3 famosas obras como el templete de San Pietro in Montorio (basados en los antiguos templos de Vesta) y la nueva Bas\u00edlica de San Pedro."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"La ciudad crece en poblaci\u00f3n superando las cifras que alcanz\u00f3 en la Antig\u00fcedad y desbordando en su expansi\u00f3n las viejas ...\"?",
+        "answer": "La ciudad crece en poblaci\u00f3n superando las cifras que alcanz\u00f3 en la Antig\u00fcedad y desbordando en su expansi\u00f3n las viejas murallas.",
+        "context": "La ciudad crece en poblaci\u00f3n superando las cifras que alcanz\u00f3 en la Antig\u00fcedad y desbordando en su expansi\u00f3n las viejas murallas."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"C.) llev\u00f3 los l\u00edmites del Imperio a su m\u00e1ximo; a partir de \u00e9l Roma se dedicar\u00e1 a consolidar y defender sus conquistas.\"?",
+        "answer": "C.) llev\u00f3 los l\u00edmites del Imperio a su m\u00e1ximo; a partir de \u00e9l Roma se dedicar\u00e1 a consolidar y defender sus conquistas.",
+        "context": "C.) llev\u00f3 los l\u00edmites del Imperio a su m\u00e1ximo; a partir de \u00e9l Roma se dedicar\u00e1 a consolidar y defender sus conquistas."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"No obstante la decadencia, en el interior de sus muros se gesta el poder que se har\u00e1 cargo de su destino hasta el siglo ...\"?",
+        "answer": "No obstante la decadencia, en el interior de sus muros se gesta el poder que se har\u00e1 cargo de su destino hasta el siglo XIX: el Papado.",
+        "context": "No obstante la decadencia, en el interior de sus muros se gesta el poder que se har\u00e1 cargo de su destino hasta el siglo XIX: el Papado."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Pocas ciudades han tenido tal evoluci\u00f3n y jugado a la vez un rol tan importante en la historia de la humanidad, ya sea c...\"?",
+        "answer": "Pocas ciudades han tenido tal evoluci\u00f3n y jugado a la vez un rol tan importante en la historia de la humanidad, ya sea como crisol de civilizaciones o sede de importantes movimientos art\u00edsticos y de instituciones, tanto civiles como religiosas.",
+        "context": "Pocas ciudades han tenido tal evoluci\u00f3n y jugado a la vez un rol tan importante en la historia de la humanidad, ya sea como crisol de civilizaciones o sede de importantes movimientos art\u00edsticos y de instituciones, tanto civiles como religiosas."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Al siglo X se le ha llamado la \u201cEdad de Hierro del Pontificado\u201d.\"?",
+        "answer": "Al siglo X se le ha llamado la \u201cEdad de Hierro del Pontificado\u201d.",
+        "context": "Al siglo X se le ha llamado la \u201cEdad de Hierro del Pontificado\u201d."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Este movimiento comunal no era ajeno al que inspiraba a las ciudades del Norte de Italia (Mil\u00e1n, Florencia, etc) que pug...\"?",
+        "answer": "Este movimiento comunal no era ajeno al que inspiraba a las ciudades del Norte de Italia (Mil\u00e1n, Florencia, etc) que pugnaban por afirmar su independencia frente al Imperio alem\u00e1n.",
+        "context": "Este movimiento comunal no era ajeno al que inspiraba a las ciudades del Norte de Italia (Mil\u00e1n, Florencia, etc) que pugnaban por afirmar su independencia frente al Imperio alem\u00e1n."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Esto trajo graves consecuencias para el Papado y la Iglesia, cuyos l\u00edderes fueron hechura de los emperadores que los des...\"?",
+        "answer": "Esto trajo graves consecuencias para el Papado y la Iglesia, cuyos l\u00edderes fueron hechura de los emperadores que los designaban; no obstante que los emperadores designaron papas m\u00e1s dignos que los del \"Siglo de Hierro\", la moral eclesi\u00e1stica en Italia, Alemania y otros lugares decay\u00f3 notablemente al contaminarse la Iglesia con el esp\u00edritu feudal.",
+        "context": "Esto trajo graves consecuencias para el Papado y la Iglesia, cuyos l\u00edderes fueron hechura de los emperadores que los designaban; no obstante que los emperadores designaron papas m\u00e1s dignos que los del \"Siglo de Hierro\", la moral eclesi\u00e1stica en Italia, Alemania y otros lugares decay\u00f3 notablemente al contaminarse la Iglesia con el esp\u00edritu feudal."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Rienzo termin\u00f3 por ser asesinado en 1354, restableci\u00e9ndose nuevamente el gobierno pontificio a trav\u00e9s de sus legados.\"?",
+        "answer": "Rienzo termin\u00f3 por ser asesinado en 1354, restableci\u00e9ndose nuevamente el gobierno pontificio a trav\u00e9s de sus legados.",
+        "context": "Rienzo termin\u00f3 por ser asesinado en 1354, restableci\u00e9ndose nuevamente el gobierno pontificio a trav\u00e9s de sus legados."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Una serie de pueblos los it\u00e1licos, de los cuales los latinos y los mismos romanos formaban parte- dominaban la pen\u00ednsula...\"?",
+        "answer": "Una serie de pueblos los it\u00e1licos, de los cuales los latinos y los mismos romanos formaban parte- dominaban la pen\u00ednsula it\u00e1lica de norte a sur.",
+        "context": "Una serie de pueblos los it\u00e1licos, de los cuales los latinos y los mismos romanos formaban parte- dominaban la pen\u00ednsula it\u00e1lica de norte a sur."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Debido a las dificultades del Estado para cobrar los impuestos y, como casi toda la poblaci\u00f3n rehu\u00eda ciertas profesiones...\"?",
+        "answer": "Debido a las dificultades del Estado para cobrar los impuestos y, como casi toda la poblaci\u00f3n rehu\u00eda ciertas profesiones (cobrador de impuestos, ediles municipales, etc), el gobierno se vio en la necesidad de declararlas hereditarias, lo que contribuy\u00f3 a hacer m\u00e1s r\u00edgida la estructura social.",
+        "context": "Debido a las dificultades del Estado para cobrar los impuestos y, como casi toda la poblaci\u00f3n rehu\u00eda ciertas profesiones (cobrador de impuestos, ediles municipales, etc), el gobierno se vio en la necesidad de declararlas hereditarias, lo que contribuy\u00f3 a hacer m\u00e1s r\u00edgida la estructura social."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"En la educaci\u00f3n, la religiosidad m\u00e1s que una mejora de vida romana, le ense\u00f1aba al chico romano disciplina que usar\u00eda pa...\"?",
+        "answer": "En la educaci\u00f3n, la religiosidad m\u00e1s que una mejora de vida romana, le ense\u00f1aba al chico romano disciplina que usar\u00eda para fines pr\u00e1cticos e inmediatos, as\u00ed como el manejo de la siembra y agricultura.",
+        "context": "En la educaci\u00f3n, la religiosidad m\u00e1s que una mejora de vida romana, le ense\u00f1aba al chico romano disciplina que usar\u00eda para fines pr\u00e1cticos e inmediatos, as\u00ed como el manejo de la siembra y agricultura."
+    },
+    {
+        "type": "closed",
+        "question": "\u00bfCu\u00e1l es la componentes de la siguiente afirmaci\u00f3n? \"La historia posterior de Roma, sea en la Edad Media y en las \u00e9pocas sucesivas, presenta un car\u00e1cter m\u00e1s bien c...\"?",
+        "answer": "La historia posterior de Roma, sea en la Edad Media y en las \u00e9pocas sucesivas, presenta un car\u00e1cter m\u00e1s bien comunal, localista, y est\u00e1 casi siempre ligada a la historia del papado, la de Italia y la de pueblos, reinos e imperios que intentaron ejercer dominio sobre la ciudad.",
+        "context": "La historia posterior de Roma, sea en la Edad Media y en las \u00e9pocas sucesivas, presenta un car\u00e1cter m\u00e1s bien comunal, localista, y est\u00e1 casi siempre ligada a la historia del papado, la de Italia y la de pueblos, reinos e imperios que intentaron ejercer dominio sobre la ciudad."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"En cuanto a la geometr\u00eda, permaneci\u00f3 de manera antigua, sin embargo sufri\u00f3 cambios en el momento en que los griegos come...\"?",
+        "answer": "En cuanto a la geometr\u00eda, permaneci\u00f3 de manera antigua, sin embargo sufri\u00f3 cambios en el momento en que los griegos comenzaron a ense\u00f1arla.",
+        "context": "En cuanto a la geometr\u00eda, permaneci\u00f3 de manera antigua, sin embargo sufri\u00f3 cambios en el momento en que los griegos comenzaron a ense\u00f1arla."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Conocemos muy bien los acontecimientos gracias a la obra Historia de las guerras de Procopio de Cesarea.\"?",
+        "answer": "Conocemos muy bien los acontecimientos gracias a la obra Historia de las guerras de Procopio de Cesarea.",
+        "context": "Conocemos muy bien los acontecimientos gracias a la obra Historia de las guerras de Procopio de Cesarea."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Los papas del siglo hicieron, en l\u00edneas generales, una firme defensa de su derecho de ser reconocidos como pr\u00edncipes tem...\"?",
+        "answer": "Los papas del siglo hicieron, en l\u00edneas generales, una firme defensa de su derecho de ser reconocidos como pr\u00edncipes temporales y jefes de la Iglesia, pese al poder avasallador de reyes tan absolutistas como Luis XIV de Francia, quien pr\u00e1cticamente separ\u00f3 a la iglesia de este pa\u00eds de la obediencia a Roma, creando una iglesia gala dependiente de \u00e9l.",
+        "context": "Los papas del siglo hicieron, en l\u00edneas generales, una firme defensa de su derecho de ser reconocidos como pr\u00edncipes temporales y jefes de la Iglesia, pese al poder avasallador de reyes tan absolutistas como Luis XIV de Francia, quien pr\u00e1cticamente separ\u00f3 a la iglesia de este pa\u00eds de la obediencia a Roma, creando una iglesia gala dependiente de \u00e9l."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Los dioses latinos (J\u00fapiter, Marte, etc), son identificados con los griegos, la literatura latina adquiere formas y tem\u00e1...\"?",
+        "answer": "Los dioses latinos (J\u00fapiter, Marte, etc), son identificados con los griegos, la literatura latina adquiere formas y tem\u00e1tica griegas (el teatro griego), se populariza el idioma griego entre las clases altas y se desarrolla en ellas la tendencia al lujo y al derroche, llegan a Roma profesores y fil\u00f3sofos griegos a ense\u00f1ar, etc.",
+        "context": "Los dioses latinos (J\u00fapiter, Marte, etc), son identificados con los griegos, la literatura latina adquiere formas y tem\u00e1tica griegas (el teatro griego), se populariza el idioma griego entre las clases altas y se desarrolla en ellas la tendencia al lujo y al derroche, llegan a Roma profesores y fil\u00f3sofos griegos a ense\u00f1ar, etc."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"La amenaza lombarda oblig\u00f3 a los papas a desligarse de la ayuda bizantina y orientar su mirada en demanda de la ayuda qu...\"?",
+        "answer": "La amenaza lombarda oblig\u00f3 a los papas a desligarse de la ayuda bizantina y orientar su mirada en demanda de la ayuda que pudiesen prestar otros pr\u00edncipes germ\u00e1nicos.",
+        "context": "La amenaza lombarda oblig\u00f3 a los papas a desligarse de la ayuda bizantina y orientar su mirada en demanda de la ayuda que pudiesen prestar otros pr\u00edncipes germ\u00e1nicos."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Los plebeyos obtuvieron el derecho a voto en los comicios y el derecho a ser elegidos para las diversas magistraturas.\"?",
+        "answer": "Los plebeyos obtuvieron el derecho a voto en los comicios y el derecho a ser elegidos para las diversas magistraturas.",
+        "context": "Los plebeyos obtuvieron el derecho a voto en los comicios y el derecho a ser elegidos para las diversas magistraturas."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Estas costumbres solo declinaron con la influencia del cristianismo.\"?",
+        "answer": "Estas costumbres solo declinaron con la influencia del cristianismo.",
+        "context": "Estas costumbres solo declinaron con la influencia del cristianismo."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"La jefatura de la Iglesia se convirti\u00f3 en un verdadero trofeo de la nobleza.\"?",
+        "answer": "La jefatura de la Iglesia se convirti\u00f3 en un verdadero trofeo de la nobleza.",
+        "context": "La jefatura de la Iglesia se convirti\u00f3 en un verdadero trofeo de la nobleza."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"C.) fue una etapa de la Antigua Roma en la cual la ciudad y sus territorios tuvieron un sistema de gobierno ejercido por...\"?",
+        "answer": "C.) fue una etapa de la Antigua Roma en la cual la ciudad y sus territorios tuvieron un sistema de gobierno ejercido por magistrados electos por asambleas de ciudadanos, en el contexto de un estado de derecho.",
+        "context": "C.) fue una etapa de la Antigua Roma en la cual la ciudad y sus territorios tuvieron un sistema de gobierno ejercido por magistrados electos por asambleas de ciudadanos, en el contexto de un estado de derecho."
+    },
+    {
+        "type": "closed",
+        "question": "\u00bfCu\u00e1l es la caracter\u00edsticas de la siguiente afirmaci\u00f3n? \"Su desarrollo art\u00edstico y arquitect\u00f3nico continuar\u00e1 durante todo el siglo XVI y se proyectar\u00e1 en el siglo XVII...\"?",
+        "answer": "Su desarrollo art\u00edstico y arquitect\u00f3nico continuar\u00e1 durante todo el siglo XVI y se proyectar\u00e1 en el siglo XVII bajo la forma del Barroco.",
+        "context": "Su desarrollo art\u00edstico y arquitect\u00f3nico continuar\u00e1 durante todo el siglo XVI y se proyectar\u00e1 en el siglo XVII bajo la forma del Barroco."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Frente a esta nueva intrusi\u00f3n reaccionar\u00eda el papa Julio II.\"?",
+        "answer": "Frente a esta nueva intrusi\u00f3n reaccionar\u00eda el papa Julio II.",
+        "context": "Frente a esta nueva intrusi\u00f3n reaccionar\u00eda el papa Julio II."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"En segundo lugar el papa cre\u00f3 una nueva congregaci\u00f3n (1542): la Congregaci\u00f3n del Santo Oficio, m\u00e1s conocida como la Inqu...\"?",
+        "answer": "En segundo lugar el papa cre\u00f3 una nueva congregaci\u00f3n (1542): la Congregaci\u00f3n del Santo Oficio, m\u00e1s conocida como la Inquisici\u00f3n romana.",
+        "context": "En segundo lugar el papa cre\u00f3 una nueva congregaci\u00f3n (1542): la Congregaci\u00f3n del Santo Oficio, m\u00e1s conocida como la Inquisici\u00f3n romana."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Distinto le fue con los galos cisalpinos (en el norte de Italia), campa\u00f1a en que Roma estuvo a punto de sucumbir (390 a.\"?",
+        "answer": "Distinto le fue con los galos cisalpinos (en el norte de Italia), campa\u00f1a en que Roma estuvo a punto de sucumbir (390 a.",
+        "context": "Distinto le fue con los galos cisalpinos (en el norte de Italia), campa\u00f1a en que Roma estuvo a punto de sucumbir (390 a."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Ot\u00f3n impuso su pleno dominio en Italia y los Estados Pontificios y oblig\u00f3 a los romanos a prestarle juramento de fidelid...\"?",
+        "answer": "Ot\u00f3n impuso su pleno dominio en Italia y los Estados Pontificios y oblig\u00f3 a los romanos a prestarle juramento de fidelidad en el sentido de que no elegir\u00edan a ning\u00fan papa sin su consentimiento.",
+        "context": "Ot\u00f3n impuso su pleno dominio en Italia y los Estados Pontificios y oblig\u00f3 a los romanos a prestarle juramento de fidelidad en el sentido de que no elegir\u00edan a ning\u00fan papa sin su consentimiento."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"La ca\u00edda de la rep\u00fablica Romana Al obtener el dominio del Mediterr\u00e1neo la mayor\u00eda de las actividades econ\u00f3micas -comerci...\"?",
+        "answer": "La ca\u00edda de la rep\u00fablica Romana Al obtener el dominio del Mediterr\u00e1neo la mayor\u00eda de las actividades econ\u00f3micas -comerciales, industriales y mineras- fue apropiada por los ricos comerciantes romanos provenientes de la clase ecuestre, quienes desarrollaron un intenso capitalismo monetario y esclavista.",
+        "context": "La ca\u00edda de la rep\u00fablica Romana Al obtener el dominio del Mediterr\u00e1neo la mayor\u00eda de las actividades econ\u00f3micas -comerciales, industriales y mineras- fue apropiada por los ricos comerciantes romanos provenientes de la clase ecuestre, quienes desarrollaron un intenso capitalismo monetario y esclavista."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Roma impuso su idioma -el lat\u00edn-, y sus leyes a los pueblos conquistados.\"?",
+        "answer": "Roma impuso su idioma -el lat\u00edn-, y sus leyes a los pueblos conquistados.",
+        "context": "Roma impuso su idioma -el lat\u00edn-, y sus leyes a los pueblos conquistados."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Junto a los comicios exist\u00eda un poderoso cuerpo de gobierno llamado el Senado.\"?",
+        "answer": "Junto a los comicios exist\u00eda un poderoso cuerpo de gobierno llamado el Senado.",
+        "context": "Junto a los comicios exist\u00eda un poderoso cuerpo de gobierno llamado el Senado."
+    },
+    {
+        "type": "closed",
+        "question": "\u00bfCu\u00e1l es la componentes de la siguiente afirmaci\u00f3n? \"El casco m\u00e1s antiguo de Roma adquiere ya el aspecto tradicional: un mont\u00f3n de ruinas que denotan el esplendoro...\"?",
+        "answer": "El casco m\u00e1s antiguo de Roma adquiere ya el aspecto tradicional: un mont\u00f3n de ruinas que denotan el esplendoroso pasado antiguo de la ciudad.",
+        "context": "El casco m\u00e1s antiguo de Roma adquiere ya el aspecto tradicional: un mont\u00f3n de ruinas que denotan el esplendoroso pasado antiguo de la ciudad."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"A partir de 1730 los papas trataron de modernizar sus heterog\u00e9neos estados en todos los terrenos: urban\u00edstico, administr...\"?",
+        "answer": "A partir de 1730 los papas trataron de modernizar sus heterog\u00e9neos estados en todos los terrenos: urban\u00edstico, administrativo, comercial, financiero y agr\u00edcola, empresa que acometi\u00f3 con energ\u00eda el cardenal Julio Alberoni.",
+        "context": "A partir de 1730 los papas trataron de modernizar sus heterog\u00e9neos estados en todos los terrenos: urban\u00edstico, administrativo, comercial, financiero y agr\u00edcola, empresa que acometi\u00f3 con energ\u00eda el cardenal Julio Alberoni."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Se inici\u00f3 la \"querella de las investiduras\", conflicto ganado por el Papado.\"?",
+        "answer": "Se inici\u00f3 la \"querella de las investiduras\", conflicto ganado por el Papado.",
+        "context": "Se inici\u00f3 la \"querella de las investiduras\", conflicto ganado por el Papado."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"En el mismo lugar donde fueron amamantados por la loba, fundaron una ciudad.\"?",
+        "answer": "En el mismo lugar donde fueron amamantados por la loba, fundaron una ciudad.",
+        "context": "En el mismo lugar donde fueron amamantados por la loba, fundaron una ciudad."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Bajo el gobierno de Tiberio fue crucificado en Palestina Jes\u00fas de Nazareth (33 d.\"?",
+        "answer": "Bajo el gobierno de Tiberio fue crucificado en Palestina Jes\u00fas de Nazareth (33 d.",
+        "context": "Bajo el gobierno de Tiberio fue crucificado en Palestina Jes\u00fas de Nazareth (33 d."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Pero el dominio de Odoacro, rey de los h\u00e9rulos, no dur\u00f3 mucho sobre Roma e Italia, pues el emperador de Oriente, Zen\u00f3n, ...\"?",
+        "answer": "Pero el dominio de Odoacro, rey de los h\u00e9rulos, no dur\u00f3 mucho sobre Roma e Italia, pues el emperador de Oriente, Zen\u00f3n, autoriz\u00f3, bajo una te\u00f3rica soberan\u00eda, a un nuevo jefe b\u00e1rbaro, Teodorico, rey de los ostrogodos, a pasar con su pueblo a la pen\u00ednsula a obtener nuevas tierras.",
+        "context": "Pero el dominio de Odoacro, rey de los h\u00e9rulos, no dur\u00f3 mucho sobre Roma e Italia, pues el emperador de Oriente, Zen\u00f3n, autoriz\u00f3, bajo una te\u00f3rica soberan\u00eda, a un nuevo jefe b\u00e1rbaro, Teodorico, rey de los ostrogodos, a pasar con su pueblo a la pen\u00ednsula a obtener nuevas tierras."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Religi\u00f3n y mitolog\u00eda La religi\u00f3n romana antigua se bas\u00f3 en la creencia en una deidad superior -J\u00fapiter- y en otras menor...\"?",
+        "answer": "Religi\u00f3n y mitolog\u00eda La religi\u00f3n romana antigua se bas\u00f3 en la creencia en una deidad superior -J\u00fapiter- y en otras menores (Marte, Juno, Quirino, Minerva, etc.) agrupados en tr\u00edadas seg\u00fan la \u00e9poca (al principio: J\u00fapiter-MarteQuirino; despu\u00e9s, J\u00fapiter-Juno-Minerva).",
+        "context": "Religi\u00f3n y mitolog\u00eda La religi\u00f3n romana antigua se bas\u00f3 en la creencia en una deidad superior -J\u00fapiter- y en otras menores (Marte, Juno, Quirino, Minerva, etc.) agrupados en tr\u00edadas seg\u00fan la \u00e9poca (al principio: J\u00fapiter-MarteQuirino; despu\u00e9s, J\u00fapiter-Juno-Minerva)."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"A finales de la Rep\u00fablica, Julio C\u00e9sar, en el contexto de las luchas civiles, emprender\u00e1 la conquista de la extensa regi...\"?",
+        "answer": "A finales de la Rep\u00fablica, Julio C\u00e9sar, en el contexto de las luchas civiles, emprender\u00e1 la conquista de la extensa regi\u00f3n de la Galia (actual Francia, B\u00e9lgica, Suiza, el sur de Alemania), derrotando y sometiendo a las tribus celtas (entre 58 y 51 a.",
+        "context": "A finales de la Rep\u00fablica, Julio C\u00e9sar, en el contexto de las luchas civiles, emprender\u00e1 la conquista de la extensa regi\u00f3n de la Galia (actual Francia, B\u00e9lgica, Suiza, el sur de Alemania), derrotando y sometiendo a las tribus celtas (entre 58 y 51 a."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"A partir de 1748 y hasta la d\u00e9cada de 1790 Italia gozar\u00e1 de un per\u00edodo de paz.\"?",
+        "answer": "A partir de 1748 y hasta la d\u00e9cada de 1790 Italia gozar\u00e1 de un per\u00edodo de paz.",
+        "context": "A partir de 1748 y hasta la d\u00e9cada de 1790 Italia gozar\u00e1 de un per\u00edodo de paz."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Los pont\u00edfices que sucedieron a Gregorio retomaron el control de Roma y continuaron el conflicto con los sucesores de En...\"?",
+        "answer": "Los pont\u00edfices que sucedieron a Gregorio retomaron el control de Roma y continuaron el conflicto con los sucesores de Enrique.",
+        "context": "Los pont\u00edfices que sucedieron a Gregorio retomaron el control de Roma y continuaron el conflicto con los sucesores de Enrique."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"El Piamonte maniobrar\u00e1 entre las potencias en conflicto obteniendo algunas ganancias territoriales en el norte de la pen...\"?",
+        "answer": "El Piamonte maniobrar\u00e1 entre las potencias en conflicto obteniendo algunas ganancias territoriales en el norte de la pen\u00ednsula.",
+        "context": "El Piamonte maniobrar\u00e1 entre las potencias en conflicto obteniendo algunas ganancias territoriales en el norte de la pen\u00ednsula."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"ej., el p\u00f3rtico exterior del Coliseo, hacia el monte Palatino, se desplom\u00f3 y cubri\u00f3 de escombros el suelo).\"?",
+        "answer": "ej., el p\u00f3rtico exterior del Coliseo, hacia el monte Palatino, se desplom\u00f3 y cubri\u00f3 de escombros el suelo).",
+        "context": "ej., el p\u00f3rtico exterior del Coliseo, hacia el monte Palatino, se desplom\u00f3 y cubri\u00f3 de escombros el suelo)."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"En Francia e Inglaterra se desarrolla el fen\u00f3meno de la Ilustraci\u00f3n, cuya m\u00e1xima obra fue la publicaci\u00f3n en Par\u00eds de la ...\"?",
+        "answer": "En Francia e Inglaterra se desarrolla el fen\u00f3meno de la Ilustraci\u00f3n, cuya m\u00e1xima obra fue la publicaci\u00f3n en Par\u00eds de la Enciclopedia.",
+        "context": "En Francia e Inglaterra se desarrolla el fen\u00f3meno de la Ilustraci\u00f3n, cuya m\u00e1xima obra fue la publicaci\u00f3n en Par\u00eds de la Enciclopedia."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"En 1122, bajo el pontificado de Calixto II se firm\u00f3 el Concordato de Worns por el cual el emperador Enrique V reconoci\u00f3 ...\"?",
+        "answer": "En 1122, bajo el pontificado de Calixto II se firm\u00f3 el Concordato de Worns por el cual el emperador Enrique V reconoci\u00f3 el derecho del papa a investir obispos y abades.",
+        "context": "En 1122, bajo el pontificado de Calixto II se firm\u00f3 el Concordato de Worns por el cual el emperador Enrique V reconoci\u00f3 el derecho del papa a investir obispos y abades."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Durante el reinado de P\u00edo IV se destac\u00f3 la figura del secretario de Estado Carlos Borromeo, quien aplic\u00f3 en los Estados ...\"?",
+        "answer": "Durante el reinado de P\u00edo IV se destac\u00f3 la figura del secretario de Estado Carlos Borromeo, quien aplic\u00f3 en los Estados Pontificios y en la Iglesia los principios tridentinos en toda su esencia.",
+        "context": "Durante el reinado de P\u00edo IV se destac\u00f3 la figura del secretario de Estado Carlos Borromeo, quien aplic\u00f3 en los Estados Pontificios y en la Iglesia los principios tridentinos en toda su esencia."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Se ensancharon calles y se desecaron zonas h\u00famedas.\"?",
+        "answer": "Se ensancharon calles y se desecaron zonas h\u00famedas.",
+        "context": "Se ensancharon calles y se desecaron zonas h\u00famedas."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"La situaci\u00f3n social ir\u00eda cambiando con el correr de los siglos.\"?",
+        "answer": "La situaci\u00f3n social ir\u00eda cambiando con el correr de los siglos.",
+        "context": "La situaci\u00f3n social ir\u00eda cambiando con el correr de los siglos."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Los romanos construyeron monumentos y edificaciones hechas para durar, funcionales y de gran tama\u00f1o: acueductos, puentes...\"?",
+        "answer": "Los romanos construyeron monumentos y edificaciones hechas para durar, funcionales y de gran tama\u00f1o: acueductos, puentes, carreteras, palacios, anfiteatros, bas\u00edlicas, fortalezas, etc.",
+        "context": "Los romanos construyeron monumentos y edificaciones hechas para durar, funcionales y de gran tama\u00f1o: acueductos, puentes, carreteras, palacios, anfiteatros, bas\u00edlicas, fortalezas, etc."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Por espacio de 2000 a\u00f1os Roma ha sido el centro de la cristiandad cat\u00f3lica, pues en ella se encuentra la Santa Sede, imp...\"?",
+        "answer": "Por espacio de 2000 a\u00f1os Roma ha sido el centro de la cristiandad cat\u00f3lica, pues en ella se encuentra la Santa Sede, importante instituci\u00f3n religiosa y pol\u00edtica que ha desarrollado una gran labor cultural.",
+        "context": "Por espacio de 2000 a\u00f1os Roma ha sido el centro de la cristiandad cat\u00f3lica, pues en ella se encuentra la Santa Sede, importante instituci\u00f3n religiosa y pol\u00edtica que ha desarrollado una gran labor cultural."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Wickham Chris Laterza PDF\u00bb (https://sites.google.com/site/beauwealmuti gemind7/9788858114094-50rariGEcritsa1 4).\"?",
+        "answer": "Wickham Chris Laterza PDF\u00bb (https://sites.google.com/site/beauwealmuti gemind7/9788858114094-50rariGEcritsa1 4).",
+        "context": "Wickham Chris Laterza PDF\u00bb (https://sites.google.com/site/beauwealmuti gemind7/9788858114094-50rariGEcritsa1 4)."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"A finales de febrero de 2013 se produjo la inesperada renuncia del papa Benedicto XVI, siendo elegido para la Silla Pont...\"?",
+        "answer": "A finales de febrero de 2013 se produjo la inesperada renuncia del papa Benedicto XVI, siendo elegido para la Silla Pontificia un nuevo papa, esta vez de origen latinoamericano, de nacionalidad argentina, el cual adopt\u00f3 el nombre de Francisco.",
+        "context": "A finales de febrero de 2013 se produjo la inesperada renuncia del papa Benedicto XVI, siendo elegido para la Silla Pontificia un nuevo papa, esta vez de origen latinoamericano, de nacionalidad argentina, el cual adopt\u00f3 el nombre de Francisco."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"M\u00e1s abajo en la escala social se encontraban los plebeyos.\"?",
+        "answer": "M\u00e1s abajo en la escala social se encontraban los plebeyos.",
+        "context": "M\u00e1s abajo en la escala social se encontraban los plebeyos."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Rienzo persigui\u00f3 a los nobles e intent\u00f3 acabar con antiguos males \u2014vicios y corrupci\u00f3n\u2014; pero su estilo autoritario pron...\"?",
+        "answer": "Rienzo persigui\u00f3 a los nobles e intent\u00f3 acabar con antiguos males \u2014vicios y corrupci\u00f3n\u2014; pero su estilo autoritario pronto le enajen\u00f3 las simpat\u00edas de los grupos que lo apoyaron en un comienzo; tambi\u00e9n se indispuso con el papa Clemente VI, quien no estaba dispuesto a deshacerse de Roma.",
+        "context": "Rienzo persigui\u00f3 a los nobles e intent\u00f3 acabar con antiguos males \u2014vicios y corrupci\u00f3n\u2014; pero su estilo autoritario pronto le enajen\u00f3 las simpat\u00edas de los grupos que lo apoyaron en un comienzo; tambi\u00e9n se indispuso con el papa Clemente VI, quien no estaba dispuesto a deshacerse de Roma."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"El desarrollo de los servicios y del comercio han venido ocupando a otra buena parte de la poblaci\u00f3n romana.\"?",
+        "answer": "El desarrollo de los servicios y del comercio han venido ocupando a otra buena parte de la poblaci\u00f3n romana.",
+        "context": "El desarrollo de los servicios y del comercio han venido ocupando a otra buena parte de la poblaci\u00f3n romana."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"En el proceso, Roma qued\u00f3 hecha cenizas (1084) debido al \"apoyo\" que brindaron los normandos al bando papal.\"?",
+        "answer": "En el proceso, Roma qued\u00f3 hecha cenizas (1084) debido al \"apoyo\" que brindaron los normandos al bando papal.",
+        "context": "En el proceso, Roma qued\u00f3 hecha cenizas (1084) debido al \"apoyo\" que brindaron los normandos al bando papal."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"La evoluci\u00f3n social durante el imperio La sociedad romana sigui\u00f3 evolucionando durante la \u00e9poca imperial.\"?",
+        "answer": "La evoluci\u00f3n social durante el imperio La sociedad romana sigui\u00f3 evolucionando durante la \u00e9poca imperial.",
+        "context": "La evoluci\u00f3n social durante el imperio La sociedad romana sigui\u00f3 evolucionando durante la \u00e9poca imperial."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"En esta fase los emperadores se transforman en monarcas absolutos, toda ficci\u00f3n de rep\u00fablica desaparece.\"?",
+        "answer": "En esta fase los emperadores se transforman en monarcas absolutos, toda ficci\u00f3n de rep\u00fablica desaparece.",
+        "context": "En esta fase los emperadores se transforman en monarcas absolutos, toda ficci\u00f3n de rep\u00fablica desaparece."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"La alta natalidad, la necesidad de nuevas tierras y de bot\u00edn, as\u00ed como la atracci\u00f3n que ejerc\u00eda la civilizaci\u00f3n romana, ...\"?",
+        "answer": "La alta natalidad, la necesidad de nuevas tierras y de bot\u00edn, as\u00ed como la atracci\u00f3n que ejerc\u00eda la civilizaci\u00f3n romana, impulsaba a emigrar peri\u00f3dicamente a los germanos hacia el suroeste.",
+        "context": "La alta natalidad, la necesidad de nuevas tierras y de bot\u00edn, as\u00ed como la atracci\u00f3n que ejerc\u00eda la civilizaci\u00f3n romana, impulsaba a emigrar peri\u00f3dicamente a los germanos hacia el suroeste."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Por su parte, Miguel \u00c1ngel, fuera de ser arquitecto, fue escultor y pintor.\"?",
+        "answer": "Por su parte, Miguel \u00c1ngel, fuera de ser arquitecto, fue escultor y pintor.",
+        "context": "Por su parte, Miguel \u00c1ngel, fuera de ser arquitecto, fue escultor y pintor."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"ej., la FAO: Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n, el FIDA: Fondo Internacional del...\"?",
+        "answer": "ej., la FAO: Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n, el FIDA: Fondo Internacional del Desarrollo Agr\u00edcola).",
+        "context": "ej., la FAO: Organizaci\u00f3n de las Naciones Unidas para la Agricultura y la Alimentaci\u00f3n, el FIDA: Fondo Internacional del Desarrollo Agr\u00edcola)."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Los teatinos fueron fundados por San Cayetano en 1524 y se les asign\u00f3 la Iglesia de San Silvestre del Qurinal.\"?",
+        "answer": "Los teatinos fueron fundados por San Cayetano en 1524 y se les asign\u00f3 la Iglesia de San Silvestre del Qurinal.",
+        "context": "Los teatinos fueron fundados por San Cayetano en 1524 y se les asign\u00f3 la Iglesia de San Silvestre del Qurinal."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"En r\u00e1pida sucesi\u00f3n el gobierno de Mussolini cay\u00f3, el rey orden\u00f3 la captura del dictador y la formaci\u00f3n de un nuevo gobie...\"?",
+        "answer": "En r\u00e1pida sucesi\u00f3n el gobierno de Mussolini cay\u00f3, el rey orden\u00f3 la captura del dictador y la formaci\u00f3n de un nuevo gobierno que negociase la paz con los aliados.",
+        "context": "En r\u00e1pida sucesi\u00f3n el gobierno de Mussolini cay\u00f3, el rey orden\u00f3 la captura del dictador y la formaci\u00f3n de un nuevo gobierno que negociase la paz con los aliados."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Uno de los m\u00e1s importantes fue el de los francos, la base de las modernas nacionalidades de Francia y Alemania, y del cu...\"?",
+        "answer": "Uno de los m\u00e1s importantes fue el de los francos, la base de las modernas nacionalidades de Francia y Alemania, y del cual derivar\u00eda a la postre el Sacro Imperio Romano Germ\u00e1nico.",
+        "context": "Uno de los m\u00e1s importantes fue el de los francos, la base de las modernas nacionalidades de Francia y Alemania, y del cual derivar\u00eda a la postre el Sacro Imperio Romano Germ\u00e1nico."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Comenzar\u00e1 el declive militar de Roma; el Estado ya no tuvo fuerzas para expulsarlos de su territorio.\"?",
+        "answer": "Comenzar\u00e1 el declive militar de Roma; el Estado ya no tuvo fuerzas para expulsarlos de su territorio.",
+        "context": "Comenzar\u00e1 el declive militar de Roma; el Estado ya no tuvo fuerzas para expulsarlos de su territorio."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Previamente, el cardenal Gil de Albornoz hab\u00eda puesto orden en la ciudad, arrinconando al movimiento comunal y apoy\u00e1ndos...\"?",
+        "answer": "Previamente, el cardenal Gil de Albornoz hab\u00eda puesto orden en la ciudad, arrinconando al movimiento comunal y apoy\u00e1ndose en la aristocracia.",
+        "context": "Previamente, el cardenal Gil de Albornoz hab\u00eda puesto orden en la ciudad, arrinconando al movimiento comunal y apoy\u00e1ndose en la aristocracia."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Como respuesta, el emperador envi\u00f3 un ej\u00e9rcito de 45 000 hombres al mando de Carlos de Borb\u00f3n, quien en mayo de 1527 sit...\"?",
+        "answer": "Como respuesta, el emperador envi\u00f3 un ej\u00e9rcito de 45 000 hombres al mando de Carlos de Borb\u00f3n, quien en mayo de 1527 siti\u00f3 y tom\u00f3 la ciudad de Roma.",
+        "context": "Como respuesta, el emperador envi\u00f3 un ej\u00e9rcito de 45 000 hombres al mando de Carlos de Borb\u00f3n, quien en mayo de 1527 siti\u00f3 y tom\u00f3 la ciudad de Roma."
+    },
+    {
+        "type": "extractive",
+        "question": "Seg\u00fan el contexto, \u00bfqu\u00e9 explica esta frase: \"Se construyeron nuevas villas habitacionales (p.\"?",
+        "answer": "Se construyeron nuevas villas habitacionales (p.",
+        "context": "Se construyeron nuevas villas habitacionales (p."
+    }
+]
