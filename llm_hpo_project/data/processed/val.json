@@ -1,0 +1,26 @@
+[
+    {
+        "type": "extractive",
+        "question": "According to the context, what does this sentence explain: \"Este conocimiento constituye la base para\nla \ninvestigaci\u00f3n  biom\u00e9dica,  el  diagn\u00f3stico  cl\u00ednico  y  el  desarrollo  de...\"?",
+        "answer": "Este conocimiento constituye la base para\nla \ninvestigaci\u00f3n  biom\u00e9dica,  el  diagn\u00f3stico  cl\u00ednico  y  el  desarrollo  de  modelos\ncomputacionales  avanzados  que  permitan  simular  el  comportamiento  card\u00edaco  en\ncondiciones fisiol\u00f3gicas y patol\u00f3gicas.",
+        "context": "Este conocimiento constituye la base para\nla \ninvestigaci\u00f3n  biom\u00e9dica,  el  diagn\u00f3stico  cl\u00ednico  y  el  desarrollo  de  modelos\ncomputacionales  avanzados  que  permitan  simular  el  comportamiento  card\u00edaco  en\ncondiciones fisiol\u00f3gicas y patol\u00f3gicas."
+    },
+    {
+        "type": "extractive",
+        "question": "According to the context, what does this sentence explain: \"El  nodo  sinusal  act\u00faa  como  marcapasos  fisiol\u00f3gico  generando\nimpulsos  el\u00e9ctricos  r\u00edtmicos.\"?",
+        "answer": "El  nodo  sinusal  act\u00faa  como  marcapasos  fisiol\u00f3gico  generando\nimpulsos  el\u00e9ctricos  r\u00edtmicos.",
+        "context": "El  nodo  sinusal  act\u00faa  como  marcapasos  fisiol\u00f3gico  generando\nimpulsos  el\u00e9ctricos  r\u00edtmicos."
+    },
+    {
+        "type": "extractive",
+        "question": "According to the context, what does this sentence explain: \"Los capilares permiten el intercambio selectivo de gases, solutos y agua gracias a\ngradientes  de  presi\u00f3n  hidrost\u00e1tica...\"?",
+        "answer": "Los capilares permiten el intercambio selectivo de gases, solutos y agua gracias a\ngradientes  de  presi\u00f3n  hidrost\u00e1tica  y  coloidosm\u00f3tica.",
+        "context": "Los capilares permiten el intercambio selectivo de gases, solutos y agua gracias a\ngradientes  de  presi\u00f3n  hidrost\u00e1tica  y  coloidosm\u00f3tica."
+    },
+    {
+        "type": "closed",
+        "question": "What is the characteristics of the following statement? \"Este conocimiento constituye la base para\nla \ninvestigaci\u00f3n  biom\u00e9dica,  el  diagn\u00f3stico  cl\u00ednico  y  el  desa...\"",
+        "answer": "Este conocimiento constituye la base para\nla \ninvestigaci\u00f3n  biom\u00e9dica,  el  diagn\u00f3stico  cl\u00ednico  y  el  desarrollo  de  modelos\ncomputacionales  avanzados  que  permitan  simular  el  comportamiento  card\u00edaco  en\ncondiciones fisiol\u00f3gicas y patol\u00f3gicas.",
+        "context": "Este conocimiento constituye la base para\nla \ninvestigaci\u00f3n  biom\u00e9dica,  el  diagn\u00f3stico  cl\u00ednico  y  el  desarrollo  de  modelos\ncomputacionales  avanzados  que  permitan  simular  el  comportamiento  card\u00edaco  en\ncondiciones fisiol\u00f3gicas y patol\u00f3gicas."
+    }
+]
