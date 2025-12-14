@@ -1,0 +1,10 @@
+{
+    "language": "es",
+    "pdf_path": "/workspace/LLM_HPO/llm_hpo_project/data/raw_pdf/source_book.pdf",
+    "pdf_mtime": 1764238315.0,
+    "num_samples": {
+        "train": 569,
+        "val": 122,
+        "test": 123
+    }
+}

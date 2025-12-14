@@ -1,0 +1,2 @@
+iteration,fitness,Acc,F1,EM,PPL,C,is_best,eta,pdrop,weight_decay,p_lora,batch_size,epochs,lora_r,alpha,k_layers,seq_len,quant
+0,0.45,0.42,0.45,0.40,12.5,0.25,1,0.0001,0.1,0.005,0.08,8,3,16,16,0.5,512,4
